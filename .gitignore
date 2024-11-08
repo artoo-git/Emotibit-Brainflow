@@ -1,0 +1,12 @@
+# Virtual Environment
+bin/
+include/
+lib/
+lib64
+pyvenv.cfg
+share/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
