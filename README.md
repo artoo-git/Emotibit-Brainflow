@@ -37,6 +37,8 @@ Main dependencies include:
 
 For a complete list of dependencies, see `requirements.txt`
 
+these requirements may not need to be so strict, it is simply the `pip freeze` of my working venv.
+
 ## License
 
 See [LICENSE](LICENSE) file for details.
