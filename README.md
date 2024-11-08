@@ -37,14 +37,6 @@ Main dependencies include:
 
 For a complete list of dependencies, see `requirements.txt`
 
-## Generate requirements.txt
-
-The requirements.txt file can be generated using:
-
-```bash
-pip freeze > requirements.txt
-```
-
 ## License
 
 See [LICENSE](LICENSE) file for details.
@@ -55,7 +47,5 @@ To complete the README, I would need:
 2. Any specific hardware requirements (Emotibit model/version)
 3. Basic usage examples
 4. Any configuration steps needed for the hardware
-
-Would you like me to create a requirements.txt file as well with the exact dependencies from your pip freeze?
 
 
