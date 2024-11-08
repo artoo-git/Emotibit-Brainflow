@@ -40,12 +40,5 @@ For a complete list of dependencies, see `requirements.txt`
 ## License
 
 See [LICENSE](LICENSE) file for details.
-```
-
-To complete the README, I would need:
-1. Brief description of what each script does (accGyrMag_gpu.py, accGyrMagPPG_gpu.py, etc.)
-2. Any specific hardware requirements (Emotibit model/version)
-3. Basic usage examples
-4. Any configuration steps needed for the hardware
 
 
